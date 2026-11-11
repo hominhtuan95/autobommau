@@ -1,0 +1,20 @@
+AUTOSKILL HOMINHTUAN95 - 10 SKILL + AUTO HP - KHONG HWID, KHONG AUTO TRAIN
+
+1. Github: thay file Autoskill_Hominhtuan95.py o thu muc goc.
+2. Tao/cap nhat file .github/workflows/build.yml bang file cung ten trong ZIP.
+3. Tab Actions > Build Autoskill Hominhtuan95 EXE > Run workflow.
+4. Mo workflow thanh cong > Artifacts > tai Autoskill_Hominhtuan95_EXE.
+5. Cai Tesseract OCR tren Windows (Tesseract la chuong trinh rieng; EXE khong dong goi no).
+   Can cai va dam bao tesseract.exe nam trong PATH.
+6. Mo game o che do cua so, khong che khu vuc hien so HP.
+7. Trong AutoSkill, chon cua so game, bam Lay goc tren-trai HP, sau 4 giay tro chuot vao goc tren trai vung so Khí Huyết x/y.
+8. Tuong tu lay goc duoi-phai HP. Vung can chua so x/y, khong can ca man hinh.
+9. Dat binh mau vao o F4 cua game, bat Auto HP, nhan Chay.
+10. Auto HP chi doc khi game dang o phia truoc; neu OCR khong doc duoc thi KHONG tu bam F4.
+11. F1 chi bat/tat khi cua so AutoSkill duoc focus. Tab, Space va 10 skill duoc cau hinh rieng.
+
+LUU Y:
+- PostMessage co the khong duoc mot so game chap nhan.
+- OCR phu thuoc do phan giai, font, ti le Windows va vung da chon.
+- Khong co can thiep bo nho game, khong co license/HWID.
+- Thu nghiem tren Windows thuc te truoc khi su dung lau dai.
